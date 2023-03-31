@@ -31,9 +31,16 @@ graph TD;
 
 
 ## 第一構想_構成，めも
-### 
-
 - venv mojiokoshi
   ```shell
   source mojiokoshi/bin/activate
   ```
+### 参考
+- https://qiita.com/KENTAROSZK/items/3f393c000c2492034c1b
+
+### pip
+- wave
+- time
+- datetime
+- speech_recognition
+- pyaudio
